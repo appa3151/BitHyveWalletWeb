@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/BitHyveWalletWeb/static/media/Selfsovereign.79b8399a.png"
   },
   {
-    "revision": "6c6e0905472d3377175a",
+    "revision": "789c5917bede5e1726d9",
     "url": "/BitHyveWalletWeb/static/css/main.e36af046.chunk.css"
   },
   {
-    "revision": "3453a68553dbf84fdee3",
-    "url": "/BitHyveWalletWeb/static/js/1.3453a685.chunk.js"
+    "revision": "cb6f45033d5852e5eca5",
+    "url": "/BitHyveWalletWeb/static/js/1.cb6f4503.chunk.js"
   },
   {
     "revision": "de6e606172235e30774e",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/BitHyveWalletWeb/static/media/logosaving.0dc6f952.jpeg"
   },
   {
-    "revision": "6c6e0905472d3377175a",
-    "url": "/BitHyveWalletWeb/static/js/main.6c6e0905.chunk.js"
+    "revision": "789c5917bede5e1726d9",
+    "url": "/BitHyveWalletWeb/static/js/main.789c5917.chunk.js"
   },
   {
     "revision": "c6a8514ab1c6686f2b7f489bbd4227d7",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/BitHyveWalletWeb/static/media/Stable.9e6eab3a.png"
   },
   {
-    "revision": "72a890c6b94bb0eb1e7ad4e441052da6",
+    "revision": "db5d2cd9781f72a562e8d251070254a8",
     "url": "/BitHyveWalletWeb/index.html"
   }
 ];
