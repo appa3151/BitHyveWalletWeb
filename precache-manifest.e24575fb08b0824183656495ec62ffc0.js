@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/BitHyveWalletWeb/static/css/main.4c596e63.chunk.css"
   },
   {
-    "revision": "660d2726b74969225fcb30ac0264d148",
+    "revision": "9fb152a73644a411deecdbe66a103743",
     "url": "/BitHyveWalletWeb/index.html"
   }
 ];
