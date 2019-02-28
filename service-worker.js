@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bithyve/precache-manifest.574071a04dac8e58de501afb41358dd3.js"
+  "/BitHyveWalletWeb/precache-manifest.d0d13dca9fec77a956a7d7b6ea71ef03.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/bithyve/index.html", {
+workbox.routing.registerNavigationRoute("/BitHyveWalletWeb/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
