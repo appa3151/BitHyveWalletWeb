@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/BitHyveWalletWeb/static/js/runtime~main.de6e6061.js"
   },
   {
-    "revision": "35e62716c064ef139771",
-    "url": "/BitHyveWalletWeb/static/js/main.35e62716.chunk.js"
+    "revision": "5c8aa9b6263f3edc96cc",
+    "url": "/BitHyveWalletWeb/static/js/main.5c8aa9b6.chunk.js"
   },
   {
     "revision": "53341b06a5b8e5594afa",
     "url": "/BitHyveWalletWeb/static/js/1.53341b06.chunk.js"
   },
   {
-    "revision": "35e62716c064ef139771",
+    "revision": "5c8aa9b6263f3edc96cc",
     "url": "/BitHyveWalletWeb/static/css/main.530fa9b1.chunk.css"
   },
   {
-    "revision": "40b4ae40da60185185a8b510e5e2ed5b",
+    "revision": "2d1513c5172cb7f19995ed308c771de3",
     "url": "/BitHyveWalletWeb/index.html"
   }
 ];

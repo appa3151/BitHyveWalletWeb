@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BitHyveWalletWeb/precache-manifest.48ac5f424b7ffab95f85ca6b24c1b525.js"
+  "/BitHyveWalletWeb/precache-manifest.50dfa56b6270cd39e77d587cbbc1a07c.js"
 );
 
 workbox.clientsClaim();
