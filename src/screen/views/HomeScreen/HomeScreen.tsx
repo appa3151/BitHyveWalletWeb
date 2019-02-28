@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class App extends Component {
+export default class HomeScreen extends Component {
   render() {
     return (
       <div className="App" style={{ textAlign: "center" }}>
@@ -9,5 +9,3 @@ class App extends Component {
     );
   }
 }
-
-export default App;
