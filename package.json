@@ -2,7 +2,7 @@
   "name": "bithyve",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://appa3151.github.io/bithyve",
+  "homepage": "https://appa3151.github.io/BitHyveWalletWeb",
   "dependencies": {
     "@types/jest": "23.3.11",
     "@types/node": "10.12.18",
