@@ -1,9 +1,9 @@
 {
-  "main.css": "/BitHyveWalletWeb/static/css/main.76c22a61.chunk.css",
-  "main.js": "/BitHyveWalletWeb/static/js/main.14bd85d3.chunk.js",
-  "main.js.map": "/BitHyveWalletWeb/static/js/main.14bd85d3.chunk.js.map",
-  "static/js/1.2483a861.chunk.js": "/BitHyveWalletWeb/static/js/1.2483a861.chunk.js",
-  "static/js/1.2483a861.chunk.js.map": "/BitHyveWalletWeb/static/js/1.2483a861.chunk.js.map",
+  "main.css": "/BitHyveWalletWeb/static/css/main.829b19ec.chunk.css",
+  "main.js": "/BitHyveWalletWeb/static/js/main.614bc0c6.chunk.js",
+  "main.js.map": "/BitHyveWalletWeb/static/js/main.614bc0c6.chunk.js.map",
+  "static/js/1.08527ab7.chunk.js": "/BitHyveWalletWeb/static/js/1.08527ab7.chunk.js",
+  "static/js/1.08527ab7.chunk.js.map": "/BitHyveWalletWeb/static/js/1.08527ab7.chunk.js.map",
   "runtime~main.js": "/BitHyveWalletWeb/static/js/runtime~main.de6e6061.js",
   "runtime~main.js.map": "/BitHyveWalletWeb/static/js/runtime~main.de6e6061.js.map",
   "static/media/logosaving.jpeg": "/BitHyveWalletWeb/static/media/logosaving.0dc6f952.jpeg",
@@ -12,8 +12,8 @@
   "static/media/Smart.png": "/BitHyveWalletWeb/static/media/Smart.f6e0b3c9.png",
   "static/media/Stable.png": "/BitHyveWalletWeb/static/media/Stable.9e6eab3a.png",
   "static/media/Selfsovereign.png": "/BitHyveWalletWeb/static/media/Selfsovereign.79b8399a.png",
-  "static/css/main.76c22a61.chunk.css.map": "/BitHyveWalletWeb/static/css/main.76c22a61.chunk.css.map",
+  "static/css/main.829b19ec.chunk.css.map": "/BitHyveWalletWeb/static/css/main.829b19ec.chunk.css.map",
   "index.html": "/BitHyveWalletWeb/index.html",
-  "precache-manifest.f716bf7ae10fbb644fb8a2172aa625a3.js": "/BitHyveWalletWeb/precache-manifest.f716bf7ae10fbb644fb8a2172aa625a3.js",
+  "precache-manifest.b9ac6b97ed85c1ed52d8d46a3be19218.js": "/BitHyveWalletWeb/precache-manifest.b9ac6b97ed85c1ed52d8d46a3be19218.js",
   "service-worker.js": "/BitHyveWalletWeb/service-worker.js"
 }
